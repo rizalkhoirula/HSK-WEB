@@ -5,13 +5,13 @@
                 <div class="col-xl-3 col-lg-4 col-md-6">
                     <div class="footer__widget">
                         <div class="logo mb-35">
-                            <a href="index.html"><img src="{{ asset('landing/assets/img/logo/secondary_logo.svg') }}" alt="img"></a>
+                            <a href="index.html"><img src="{{ asset('landing/assets/img/logo/hsk_logo.svg') }}" alt="HSK Logo"></a>
                         </div>
                         <div class="footer__content">
-                            <p>when an unknown printer took galley of type and scrambled it to make pspecimen bookt has.</p>
+                            <p>Your ultimate resource for HSK preparation and success.</p>
                             <ul class="list-wrap">
-                                <li>463 7th Ave, NY 10018, USA</li>
-                                <li>+123 88 9900 456</li>
+                                <li>Beijing, China</li>
+                                <li>+86 10 1234 5678</li>
                             </ul>
                         </div>
                     </div>
@@ -21,12 +21,12 @@
                         <h4 class="footer__widget-title">Useful Links</h4>
                         <div class="footer__link">
                             <ul class="list-wrap">
-                                <li><a href="events-details.html">Our values</a></li>
-                                <li><a href="events-details.html">Our advisory board</a></li>
-                                <li><a href="events-details.html">Our partners</a></li>
-                                <li><a href="events-details.html">Become a partner</a></li>
-                                <li><a href="events-details.html">Work at Future Learn</a></li>
-                                <li><a href="events-details.html">Quizlet Plus</a></li>
+                                <li><a href="hsk-levels.html">HSK Levels</a></li>
+                                <li><a href="study-materials.html">Study Materials</a></li>
+                                <li><a href="practice-tests.html">Practice Tests</a></li>
+                                <li><a href="hsk-tips.html">HSK Tips</a></li>
+                                <li><a href="partner-program.html">Partner Program</a></li>
+                                <li><a href="quizlet.html">Quizlet Plus</a></li>
                             </ul>
                         </div>
                     </div>
@@ -37,73 +37,17 @@
                         <div class="footer__link">
                             <ul class="list-wrap">
                                 <li><a href="contact.html">Contact Us</a></li>
-                                <li><a href="instructor-details.html">Become Teacher</a></li>
+                                <li><a href="become-teacher.html">Become a Teacher</a></li>
                                 <li><a href="blog.html">Blog</a></li>
-                                <li><a href="instructor-details.html">Instructor</a></li>
-                                <li><a href="events-details.html">Events</a></li>
+                                <li><a href="instructors.html">Instructors</a></li>
+                                <li><a href="events.html">Events</a></li>
                             </ul>
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-3 col-lg-4 col-md-6">
-                    <div class="footer__widget">
-                        <h4 class="footer__widget-title">Get In Touch</h4>
-                        <div class="footer__contact-content">
-                            <p>when an unknown printer took <br> galley type and scrambled</p>
-                            <ul class="list-wrap footer__social">
-                                <li>
-                                    <a href="https://www.facebook.com/" target="_blank">
-                                        <img src="{{ asset('landing/assets/img/icons/facebook.svg') }}" alt="img" class="injectable">
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://www.facebook.com/" target="_blank">
-                                        <img src="{{ asset('landing/assets/img/icons/twitter.svg') }}" alt="img" class="injectable">
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://www.facebook.com/" target="_blank">
-                                        <img src="{{ asset('landing/assets/img/icons/whatsapp.svg') }}" alt="img" class="injectable">
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://www.facebook.com/" target="_blank">
-                                        <img src="{{ asset('landing/assets/img/icons/instagram.svg') }}" alt="img" class="injectable">
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://www.facebook.com/" target="_blank">
-                                        <img src="{{ asset('landing/assets/img/icons/youtube.svg') }}" alt="img" class="injectable">
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="app-download">
-                            <a href="#"><img src="{{ asset('landing/assets/img/others/google-play.svg') }}" alt="img"></a>
-                            <a href="#"><img src="{{ asset('landing/assets/img/others/apple-store.svg') }}" alt="img"></a>
-                        </div>
-                    </div>
-                </div>
+                
             </div>
         </div>
     </div>
-    <div class="footer__bottom">
-        <div class="container">
-            <div class="row align-items-center">
-                <div class="col-md-7">
-                    <div class="copy-right-text">
-                        <p>© 2010-2024 skillgro.com. All rights reserved.</p>
-                    </div>
-                </div>
-                <div class="col-md-5">
-                    <div class="footer__bottom-menu">
-                        <ul class="list-wrap">
-                            <li><a href="contact.html">Term of Use</a></li>
-                            <li><a href="contact.html">Privacy Policy</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    
 </footer>

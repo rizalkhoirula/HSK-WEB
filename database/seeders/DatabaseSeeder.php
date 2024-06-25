@@ -229,7 +229,7 @@ class DatabaseSeeder extends Seeder
             'name_mandarin' => '牙膏',
             'description' => 'Alat untuk membersihkan gigi',
             'image' => 'default.jpg',
-            'id_kategori' => 1,
+            'id_kategori' => 3,
         ]);
 
         Data::create([
@@ -237,7 +237,7 @@ class DatabaseSeeder extends Seeder
             'name_mandarin' => '肥皂',
             'description' => 'Alat untuk membersihkan tubuh',
             'image' => 'default.jpg',
-            'id_kategori' => 1,
+            'id_kategori' => 3,
         ]);
 
         Data::create([
@@ -245,7 +245,7 @@ class DatabaseSeeder extends Seeder
             'name_mandarin' => '洗发水',
             'description' => 'Alat untuk membersihkan rambut',
             'image' => 'default.jpg',
-            'id_kategori' => 1,
+            'id_kategori' => 3,
         ]);
 
 

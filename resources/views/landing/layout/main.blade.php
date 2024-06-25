@@ -68,7 +68,7 @@
 
 
     <!-- footer-area -->
-    @include('landing.partials.footer')
+    <!-- @include('landing.partials.footer') -->
     <!-- footer-area-end -->
 
 
