@@ -122,7 +122,7 @@
                     <a href="javascript:void(0);" class="justify-content-center" data-bs-toggle="modal" data-bs-target="#itemModal{{ $item->id }}">
                         <div class="content">
                             <img src="{{ asset('images/'.$item->image) }}" alt="img">
-                            <span class="name"><strong>{{ $item->name }}</strong>{{ $item->name_mandarin }}</span>
+                            <!-- <span class="name"><strong>{{ $item->name }}</strong>{{ $item->name_mandarin }}</span> -->
                         </div>
                     </a>
                 </div>
